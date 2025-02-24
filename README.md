@@ -12,4 +12,4 @@ The report helps businesses make data-driven decisions by visualizing financial 
  * Discount Impact Evaluation – Assess how discounts affect sales.
  * Profitability by Segment & Country – Identify high-performing regions.
  * Year-over-Year (YoY) Growth Analysis – Track performance over time.
- * KPI & Gauge Charts – Monitor business performance effectively
+
